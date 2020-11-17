@@ -1,2 +1,5 @@
 # Text-Effects
-Doctor theme is responsive website template with HTML and SCSS
+Awesome text effects using only HTML and CSS
+- Image in Text
+- Gradient Text
+- Typewriter Text
